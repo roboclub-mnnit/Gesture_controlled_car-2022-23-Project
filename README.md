@@ -16,9 +16,27 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 | Sumit Mishra | Mechanical Engineering | 20213065 |
 ## Techstack
 - Python
-Arduino Programming
-NodeMCU Programming
-### Libraries to be installed 
--OpenCV
-Mediapipe
-ESP8266 Library (In ArduinoIDE)
+- Arduino Programming
+- NodeMCU Programming
+### Libraries to be installed/used 
+- OpenCV
+- Mediapipe
+- URLlib Request
+- ESP8266 Library (In ArduinoIDE)
+
+## Components
+|COMPONENT NAME |QUANTITY | DESCRIPTION |
+| -------- | -------- | -------- |
+| DC Motor | 2 | To rotate wheel |
+| Wheels | 2 | To drive bot |
+| Castor Wheel | 1 | To provide balance and movement |
+| Arduino UNO | 1 | Microcontroller to drive motor driver |
+| NodeMCU | 1 | To establish connection between PC and arduino |
+| L298A motor driver| 1 | To control motor speed and direction  |
+| Chasis | 1 | On this whole bot is made |
+| BreadBoard | 1 | To make circuit connection |
+| Jumper Wires | 9-10 | To complete circuit |
+
+
+
+
