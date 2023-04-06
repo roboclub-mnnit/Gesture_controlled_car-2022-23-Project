@@ -16,9 +16,9 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 | Sumit Mishra | Mechanical Engineering | 20213065 |
 ## Techstack
 - Python
--Arduino Programming
--NodeMCU Programming
+Arduino Programming
+NodeMCU Programming
 ### Libraries to be installed 
 -OpenCV
--Mediapipe
--ESP8266 Library (In ArduinoIDE)
+Mediapipe
+ESP8266 Library (In ArduinoIDE)
