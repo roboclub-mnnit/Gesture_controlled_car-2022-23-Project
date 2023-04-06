@@ -40,7 +40,12 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 - For Arduino-NodeMCU connection we follow this connection,NodeMCU Rx is connected to Tx of Arduino and vice versa.Also connect ground of both and NodeMCU to
 ![image](https://user-images.githubusercontent.com/130023827/230319898-a2edb609-0a2e-46b1-98fb-fd2a2bcfb58e.png)
 - For Arduino-MotorDriver connection we follow this
+![image](https://user-images.githubusercontent.com/130023827/230362082-3256b84f-8008-4185-aa89-0a272fdf48d5.png)
 
-
+## Implentation 
+In this project, we have used wide range of functions of OpenCV and Mediapipe. Ranging from capturing gesture using camera to processing them in Arduino. Now we will have a look on the methodology.
+Item 1 Firstly, we used the OpenCV library to open camera and get the images from user.
+Item 2 In next step, we used the Mediapipe, which provides us with some predefined functions to set relations between positioning of fingers, in turn those relations were used to define the direction and velocity of bot.
+  Sub-item 1a Like 
 
 
