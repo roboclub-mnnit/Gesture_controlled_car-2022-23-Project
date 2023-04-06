@@ -44,11 +44,16 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 
 ## Implentation 
 In this project, we have used wide range of functions of OpenCV and Mediapipe. Ranging from capturing gesture using camera to processing them in Arduino. Now we will have a look on the methodology.
-Item 1 Firstly, we used the OpenCV library to open camera and get the images from user.
-Item 2 In next step, we used the Mediapipe, which provides us with some predefined functions to set relations between positioning of fingers, in turn those relations were used to define the direction and velocity of bot.
-Item 3 In Mediapipe, we have set velocity on the basis of distance between two fingers in 2D plane.
+- Firstly, we used the OpenCV library to open camera and get the images from user.
+- In next step, we used the Mediapipe, which provides us with some predefined functions to set relations between positioning of fingers, in turn those relations were used to define the direction and velocity of bot.
+- In Mediapipe, we have set velocity on the basis of distance between two fingers in 2D plane.
 ![image](https://user-images.githubusercontent.com/130023827/230366589-316a7fdb-c58e-4dc5-8c7b-787c99f5b9dc.png)
-Item 4 We have set Turning on the basis of coordinate sign.
+- We have set Turning on the basis of coordinate sign.
+![image](https://user-images.githubusercontent.com/130023827/230367573-2cdb24ca-19da-4245-8715-0c1bbe3c21b0.png)
+- Here we can see 'Speed c' , actually we have divided max speed in 5 divisions, namely 'a' to 'e'. With 'a' being lowest and 'e' being the maximum.
+- Then we have send a string as per the required condition to Local host server, which in turn is accessed by NodeMCU. Then we establish a serial communication between Arduino and NodeMCU.
+- We wrote Arduino code, as per the gestures and serial were passed to 'if-else' condition and motor was run.
+
 
 
 
