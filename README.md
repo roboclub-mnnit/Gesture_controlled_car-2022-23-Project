@@ -1,4 +1,6 @@
 # Gesture_controlled_car-2022-23-Project
+![image](https://user-images.githubusercontent.com/130023827/230381692-951e4374-555e-4237-9963-b2cae7d55c8a.png)
+
 ## About
 This is a project based on hardware and OpenCV which is proposed and executed by robotics club of MNNIT to provide hands on experience and exposure to the students in different fields related to robotics.
 ![image](https://user-images.githubusercontent.com/130023827/230298919-71846126-458d-4e24-8479-0ad96877c274.png)
@@ -37,7 +39,7 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 | BreadBoard | 1 | To make circuit connection |
 | Jumper Wires | 9-10 | To complete circuit |
 ## Circuit Diagram
-- For Arduino-NodeMCU connection we follow this connection,NodeMCU Rx is connected to Tx of Arduino and vice versa.Also connect ground of both and NodeMCU to
+- For Arduino-NodeMCU connection we follow this connection,NodeMCU Rx is connected to Tx of Arduino and vice versa.Also connect ground of both and NodeMCU to 5Volts supply.
 ![image](https://user-images.githubusercontent.com/130023827/230319898-a2edb609-0a2e-46b1-98fb-fd2a2bcfb58e.png)
 - For Arduino-MotorDriver connection we follow this
 ![image](https://user-images.githubusercontent.com/130023827/230362082-3256b84f-8008-4185-aa89-0a272fdf48d5.png)
@@ -56,6 +58,10 @@ In this project, we have used wide range of functions of OpenCV and Mediapipe. R
 ## Application
 - This concept can be further applied in military to diffuse bombs or to do some risky tasks.
 - Also we can use it in medical field for patients who are unable to move, where their chair will on the basis of gestures.
+## Future plans
+- We can install ultrasonic sensor to make it stop in front of obstacle.
+- We can improve speed calibration and provide more speed options.
+- Gesture control concept can be applied to create a robotic arm which replicates the movement of human arm and provides us extra strength.
 
 
 
