@@ -46,6 +46,9 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 In this project, we have used wide range of functions of OpenCV and Mediapipe. Ranging from capturing gesture using camera to processing them in Arduino. Now we will have a look on the methodology.
 Item 1 Firstly, we used the OpenCV library to open camera and get the images from user.
 Item 2 In next step, we used the Mediapipe, which provides us with some predefined functions to set relations between positioning of fingers, in turn those relations were used to define the direction and velocity of bot.
-  Sub-item 1a Like 
+Item 3 In Mediapipe, we have set velocity on the basis of distance between two fingers in 2D plane.
+![image](https://user-images.githubusercontent.com/130023827/230366589-316a7fdb-c58e-4dc5-8c7b-787c99f5b9dc.png)
+Item 4 We have set Turning on the basis of coordinate sign.
+
 
 
