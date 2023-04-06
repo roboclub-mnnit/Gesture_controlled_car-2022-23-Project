@@ -7,17 +7,19 @@ The abjective of this project is to create a robot that can decrypt the gestures
 
 ![image](https://user-images.githubusercontent.com/130023827/230298919-71846126-458d-4e24-8479-0ad96877c274.png)
 
+## Project Group Members
+| Name | Branch | Registration No. |
+| -------- | -------- | -------- |
+| Shubham Verma | Mechanical Engineering | 20213132 |
+| Sumit Mishra | Mechanical Engineering | 20213065 |
+
 ## Project mentors
 | Name  | Branch | Registration No. |
 | -------- | -------- | -------- |
 | Anurag Gupta | Electronics and Communication Engineering | 20195168 |
 | Purushotam Kumar Agrawal | Electrical Engineering |	20192042 |
 | Gautam Kumar | Mechanical Engineering | 20203059 |
-## Project Group Members
-| Name | Branch | Registration No. |
-| -------- | -------- | -------- |
-| Shubham Verma | Mechanical Engineering | 20213132 |
-| Sumit Mishra | Mechanical Engineering | 20213065 |
+
 ## Techstack
 - Python
 - Arduino Programming
