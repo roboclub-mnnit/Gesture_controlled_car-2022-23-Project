@@ -52,7 +52,11 @@ In this project, we have used wide range of functions of OpenCV and Mediapipe. R
 ![image](https://user-images.githubusercontent.com/130023827/230367573-2cdb24ca-19da-4245-8715-0c1bbe3c21b0.png)
 - Here we can see 'Speed c' , actually we have divided max speed in 5 divisions, namely 'a' to 'e'. With 'a' being lowest and 'e' being the maximum.
 - Then we have send a string as per the required condition to Local host server, which in turn is accessed by NodeMCU. Then we establish a serial communication between Arduino and NodeMCU.
-- We wrote Arduino code, as per the gestures and serial were passed to 'if-else' condition and motor was run.
+- We wrote Arduino code, as per the gestures and serial were passed to 'if-else' condition and motor was run.All the serial communications were made at 9600 baud rate.
+## Application
+- This concept can be further applied in military to diffuse bombs or to do some risky tasks.
+- Also we can use it in medical field for patients who are unable to move, where their chair will on the basis of gestures.
+
 
 
 
