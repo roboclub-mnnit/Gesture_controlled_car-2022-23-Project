@@ -4,6 +4,7 @@
 ## About
 
 The abjective of this project is to create a robot that can decrypt the gestures and move as we command through our gestures.This project is based on OpenCV and hardware and also uses the concept of IoT for transmission of data.In this project, we take gestures from the camera, and the output is then transmitted to the Arduino UNO microcontroller over the wifi using Node MCU. As per the given input, the bot is moves by Arduino. 
+
 ![image](https://user-images.githubusercontent.com/130023827/230298919-71846126-458d-4e24-8479-0ad96877c274.png)
 
 ## Project mentors
