@@ -36,6 +36,10 @@ This is a project based on hardware and OpenCV which is proposed and executed by
 | Chasis | 1 | On this whole bot is made |
 | BreadBoard | 1 | To make circuit connection |
 | Jumper Wires | 9-10 | To complete circuit |
+## Circuit Diagram
+- For Arduino-NodeMCU connection we follow this connection,NodeMCU Rx is connected to Tx of Arduino and vice versa.Also connect ground of both and NodeMCU to
+![image](https://user-images.githubusercontent.com/130023827/230319898-a2edb609-0a2e-46b1-98fb-fd2a2bcfb58e.png)
+- For Arduino-MotorDriver connection we follow this
 
 
 
